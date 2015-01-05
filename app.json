@@ -22,7 +22,7 @@
     },
     "HEROKU_URL": {
       "description": "Url of this app so hubot can regularly ping himself to stay awake.",
-      "value": "http://YOURAPPNAMEHERE.herokuapp.com"
+      "value": "http://wewqerwqwerew.herokuapp.com"
     }
   },
   "addons": []
